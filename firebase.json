@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "masjid",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
